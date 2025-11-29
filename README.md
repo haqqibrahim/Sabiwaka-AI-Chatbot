@@ -6,7 +6,7 @@ The Sabiwaka API provides an AI-powered assistant for navigating transport route
 
 If you are consuming the hosted API, here is how to interact with it.
 
-**Base URL**: `http://localhost:8000` (Replace with actual host if deployed)
+**Base URL**: `https://sabiwaka-ai-chatbot.onrender.com` 
 
 ### 1. Health Check
 
