@@ -139,7 +139,8 @@ Best Time to Travel: In the morning
         system_message=system_prompt,
         instructions=[
             "Always answer in a friendly and helpful manner",
-            "Also include the estimated prices for keke, taki or drop"
+            "Also include the estimated prices for keke, taki or drop",
+            "Ensure your response are as short as possible, no long talk just be direct"
         ],
         debug_mode=True,
     )
